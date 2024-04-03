@@ -1,0 +1,3 @@
+https://play.nativescript.org/?template=play-vue&id=vVF7dn&v=18&fbclid=IwAR3LFiQ3Pu1kZWmg7CLXZA36cb3tiry36eyUz5w6YXdlVyHpH2iyfdlVIRo
+//Bài thời tiết
+https://play.nativescript.org/?template=play-vue&id=3tErL0&v=5
